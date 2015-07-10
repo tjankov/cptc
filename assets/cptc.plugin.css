@@ -1,0 +1,42 @@
+
+.pagination_plink {
+    display: inline-block;
+    height: 25px;
+    line-height: 25px;
+    padding-left: 12px;
+    padding-right: 12px;
+    text-align: center;
+}
+
+.prod_pagination {
+	text-align:center;
+	position:relative;
+	margin:38px 0px;
+}
+
+.prod_pagination * {
+	font-size:0.8rem!important;
+	font-weight:600!important;
+	color:#777!important;
+}
+
+.prod_pagination span.pcurrent, span.upagicurrent {
+	color:#dd1100!important;
+}
+
+
+
+.pagination_inline_cont {
+	display: inline-block;
+	
+}
+
+.pagination_left_cont {
+	position:absolute;
+	left:0px;
+}
+
+.pagination_right_cont {
+	position:absolute;
+	right:0px;
+}
