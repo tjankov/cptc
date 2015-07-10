@@ -1,6 +1,6 @@
 # CPTC plugin for WordPress
 
-### - custom post type plugin with backend management
+#### custom post type plugin with backend management
 
 author: [T. Jankov](http://studio.croati.co)
 
